@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 6fd5cc3d4e2b144a791485e91cd1dff4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - solution: {instanceID: 0}
+  - spaceship: {instanceID: 0}
+  - check: {instanceID: 0}
+  - number0: {instanceID: 0}
+  - number1: {instanceID: 0}
+  - number2: {instanceID: 0}
+  - number3: {instanceID: 0}
+  - number4: {instanceID: 0}
+  - number5: {instanceID: 0}
+  - number6: {instanceID: 0}
+  - number7: {instanceID: 0}
+  - number8: {instanceID: 0}
+  - number9: {instanceID: 0}
+  - audioPlayer: {instanceID: 0}
+  - soundCorrect: {fileID: 8300000, guid: 106c4e8b750904e6aa147bac7c4f7b64, type: 3}
+  - soundWrong: {fileID: 8300000, guid: cbe67333764914a8589b54883d959930, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
